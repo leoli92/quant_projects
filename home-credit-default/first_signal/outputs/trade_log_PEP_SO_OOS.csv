@@ -1,0 +1,16 @@
+ticker_a,ticker_b,direction,entry_date,exit_date,trade_return,holding_days
+PEP,SO,long_spread,2023-04-21,2023-04-26,0.028266,5
+PEP,SO,short_spread,2023-05-16,2023-05-22,0.034417,6
+PEP,SO,short_spread,2023-06-29,2023-07-05,0.018396,6
+PEP,SO,short_spread,2023-07-18,2023-07-24,0.016222,6
+PEP,SO,short_spread,2023-08-03,2023-08-28,0.038452,25
+PEP,SO,long_spread,2023-09-13,2023-09-29,0.008394,16
+PEP,SO,short_spread,2023-10-02,2023-10-03,0.02692,1
+PEP,SO,long_spread,2023-10-05,2023-11-13,0.004378,39
+PEP,SO,long_spread,2023-11-16,2023-12-21,0.003965,35
+PEP,SO,long_spread,2024-01-08,2024-01-17,0.016682,9
+PEP,SO,short_spread,2024-01-30,2024-03-04,0.011169,34
+PEP,SO,long_spread,2024-03-07,2024-03-19,0.036561,12
+PEP,SO,long_spread,2024-04-23,2024-10-11,-0.171017,171
+PEP,SO,long_spread,2024-10-16,2024-12-11,-0.008594,56
+PEP,SO,long_spread,2025-01-06,2025-06-27,-0.219801,172
