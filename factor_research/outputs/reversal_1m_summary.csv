@@ -1,0 +1,2 @@
+factor,ic_mean,ic_std,ir,is_sharpe,oos_sharpe,sharpe_decay,nan_rate
+reversal_1m,0.014637166097966333,0.2170566274792147,0.06743478081252316,-0.228,0.141,-0.369,0.0

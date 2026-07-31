@@ -1,0 +1,2 @@
+factor,ic_mean,ic_std,ir,is_sharpe,oos_sharpe,sharpe_decay,nan_rate
+momentum_12_1,-0.003918994497853559,0.24303838481524556,-0.01612500223301239,0.1605,-0.1822,0.3427,0.0

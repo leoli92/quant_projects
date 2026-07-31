@@ -1,0 +1,2 @@
+factor,ic_mean,ic_std,ir,is_sharpe,oos_sharpe,sharpe_decay,nan_rate
+realized_vol_60d,-0.016611758570651187,0.27258074146254374,-0.06094252470486388,-0.151,-1.1481,0.9971,0.0

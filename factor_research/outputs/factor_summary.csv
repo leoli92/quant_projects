@@ -1,0 +1,4 @@
+factor,ic_mean,ic_std,ir,is_sharpe,oos_sharpe,sharpe_decay,flagged_overfit,nan_rate_mean
+reversal_1m,0.0146,0.2171,0.0674,-0.228,0.141,-0.369,False,0.0
+momentum_12_1,-0.0039,0.243,-0.0161,0.1605,-0.1822,0.3427,True,0.0
+realized_vol_60d,-0.0166,0.2726,-0.0609,-0.151,-1.1481,0.9971,True,0.0
