@@ -1,7 +1,0 @@
-ticker_a,ticker_b,direction,entry_date,exit_date,trade_return,holding_days
-MSFT,DUK,short_spread,2023-05-16,2023-07-21,-0.076777,66
-MSFT,DUK,long_spread,2023-12-14,2024-01-18,0.149569,35
-MSFT,DUK,long_spread,2024-04-19,2024-06-13,-0.023474,55
-MSFT,DUK,long_spread,2024-08-01,2024-10-10,-0.046171,70
-MSFT,DUK,short_spread,2024-12-16,2025-01-21,0.144812,36
-MSFT,DUK,short_spread,2025-05-13,2025-06-27,0.029501,45

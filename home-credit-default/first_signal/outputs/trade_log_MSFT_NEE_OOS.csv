@@ -1,6 +1,0 @@
-ticker_a,ticker_b,direction,entry_date,exit_date,trade_return,holding_days
-MSFT,NEE,short_spread,2023-04-26,2023-07-21,-0.111702,86
-MSFT,NEE,short_spread,2023-09-27,2023-10-26,-0.107546,29
-MSFT,NEE,short_spread,2024-11-06,2024-11-27,0.073993,21
-MSFT,NEE,long_spread,2025-03-03,2025-03-24,0.041159,21
-MSFT,NEE,short_spread,2025-05-01,2025-05-15,0.106824,14
