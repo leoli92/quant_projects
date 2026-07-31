@@ -1,9 +1,0 @@
-ticker_a,ticker_b,direction,entry_date,exit_date,trade_return,holding_days
-PEP,DUK,short_spread,2023-05-16,2023-07-12,0.024752,57
-PEP,DUK,long_spread,2023-08-11,2023-08-31,0.022553,20
-PEP,DUK,long_spread,2023-09-13,2023-10-03,0.035202,20
-PEP,DUK,long_spread,2023-10-11,2023-11-08,0.046803,28
-PEP,DUK,long_spread,2023-12-07,2024-01-30,-0.002407,54
-PEP,DUK,long_spread,2024-05-30,2024-10-07,-0.116004,130
-PEP,DUK,long_spread,2024-11-15,2024-12-10,0.025287,25
-PEP,DUK,long_spread,2025-02-04,2025-06-16,-0.122283,132
